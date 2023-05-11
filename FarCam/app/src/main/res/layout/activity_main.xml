@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:padding="20dp">
+        <ImageView
+            android:id="@+id/origPic"
+            android:layout_width="512px"
+            android:layout_height="512px">
+        </ImageView>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="200px">
+        </Space>
+        <ImageView
+            android:id="@+id/ditheredPic"
+            android:layout_width="512px"
+            android:layout_height="512px">
+        </ImageView>
+    </LinearLayout>
+</RelativeLayout>

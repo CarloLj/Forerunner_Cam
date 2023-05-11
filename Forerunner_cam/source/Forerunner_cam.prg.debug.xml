@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\carlo\Documents\GitHub\Forerunner_Cam\Forerunner_cam\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="1" lineNum="7" parent="globals/Forerunner_camMenuDelegate" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="1" lineNum="8" parent="globals/Forerunner_camMenuDelegate" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="11" parent="globals/Forerunner_camMenuDelegate" pc="268435479" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="12" parent="globals/Forerunner_camMenuDelegate" pc="268435483" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="13" parent="globals/Forerunner_camMenuDelegate" pc="268435494" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="14" parent="globals/Forerunner_camMenuDelegate" pc="268435518" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="15" parent="globals/Forerunner_camMenuDelegate" pc="268435529" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="16" parent="globals/Forerunner_camMenuDelegate" pc="268435553" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="17" parent="globals/Forerunner_camMenuDelegate" pc="268435564" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="18" parent="globals/Forerunner_camMenuDelegate" pc="268435588" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="19" parent="globals/Forerunner_camMenuDelegate" pc="268435599" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="20" parent="globals/Forerunner_camMenuDelegate" pc="268435623" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="21" parent="globals/Forerunner_camMenuDelegate" pc="268435634" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="2" lineNum="23" parent="globals/Forerunner_camMenuDelegate" pc="268435658" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="3" lineNum="5" parent="globals/Forerunner_camMenuDelegate" pc="268437899" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camMenuDelegate.mc" id="3" lineNum="5" parent="globals/Forerunner_camMenuDelegate" pc="268437899" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="5" lineNum="6" parent="globals/Forerunner_camCameraDelegate" pc="268435680" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="5" lineNum="7" parent="globals/Forerunner_camCameraDelegate" pc="268435684" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="6" lineNum="10" parent="globals/Forerunner_camCameraDelegate" pc="268435703" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="6" lineNum="11" parent="globals/Forerunner_camCameraDelegate" pc="268435707" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="6" lineNum="12" parent="globals/Forerunner_camCameraDelegate" pc="268435791" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="7" lineNum="15" parent="globals/Forerunner_camCameraDelegate" pc="268435795" symbol="onSelect"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="7" lineNum="16" parent="globals/Forerunner_camCameraDelegate" pc="268435799" symbol="onSelect"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="8" lineNum="19" parent="globals/Forerunner_camCameraDelegate" pc="268435823" symbol="onNextPage"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="8" lineNum="20" parent="globals/Forerunner_camCameraDelegate" pc="268435827" symbol="onNextPage"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="8" lineNum="21" parent="globals/Forerunner_camCameraDelegate" pc="268435850" symbol="onNextPage"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="9" lineNum="4" parent="globals/Forerunner_camCameraDelegate" pc="268437861" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraDelegate.mc" id="9" lineNum="4" parent="globals/Forerunner_camCameraDelegate" pc="268437861" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="11" lineNum="6" parent="globals/Forerunner_camVideoDelegate" pc="268435923" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="11" lineNum="7" parent="globals/Forerunner_camVideoDelegate" pc="268435927" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="12" lineNum="10" parent="globals/Forerunner_camVideoDelegate" pc="268435946" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="12" lineNum="11" parent="globals/Forerunner_camVideoDelegate" pc="268435950" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="12" lineNum="12" parent="globals/Forerunner_camVideoDelegate" pc="268436034" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="13" lineNum="15" parent="globals/Forerunner_camVideoDelegate" pc="268436038" symbol="onSelect"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="13" lineNum="16" parent="globals/Forerunner_camVideoDelegate" pc="268436042" symbol="onSelect"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="14" lineNum="19" parent="globals/Forerunner_camVideoDelegate" pc="268436066" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="14" lineNum="20" parent="globals/Forerunner_camVideoDelegate" pc="268436070" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="14" lineNum="21" parent="globals/Forerunner_camVideoDelegate" pc="268436093" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="15" lineNum="4" parent="globals/Forerunner_camVideoDelegate" pc="268437842" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoDelegate.mc" id="15" lineNum="4" parent="globals/Forerunner_camVideoDelegate" pc="268437842" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="17" lineNum="6" parent="globals/Forerunner_camVideoView" pc="268436122" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="17" lineNum="7" parent="globals/Forerunner_camVideoView" pc="268436126" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="18" lineNum="11" parent="globals/Forerunner_camVideoView" pc="268436145" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="18" lineNum="12" parent="globals/Forerunner_camVideoView" pc="268436149" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="19" lineNum="18" parent="globals/Forerunner_camVideoView" pc="268436187" symbol="onShow"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="20" lineNum="22" parent="globals/Forerunner_camVideoView" pc="268436192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="20" lineNum="24" parent="globals/Forerunner_camVideoView" pc="268436196" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="21" lineNum="30" parent="globals/Forerunner_camVideoView" pc="268436217" symbol="onHide"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="22" lineNum="4" parent="globals/Forerunner_camVideoView" pc="268437986" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camVideoView.mc" id="22" lineNum="4" parent="globals/Forerunner_camVideoView" pc="268437986" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="24" lineNum="7" parent="globals/Forerunner_camApp" pc="268436222" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="24" lineNum="8" parent="globals/Forerunner_camApp" pc="268436226" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="25" lineNum="12" parent="globals/Forerunner_camApp" pc="268436245" symbol="onStart"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="26" lineNum="16" parent="globals/Forerunner_camApp" pc="268436250" symbol="onStop"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="27" lineNum="20" parent="globals/Forerunner_camApp" pc="268436255" symbol="getInitialView"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="27" lineNum="21" parent="globals/Forerunner_camApp" pc="268436259" symbol="getInitialView"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="28" lineNum="5" parent="globals/Forerunner_camApp" pc="268437967" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="28" lineNum="5" parent="globals/Forerunner_camApp" pc="268437967" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="29" lineNum="26" parent="globals" pc="268436327" symbol="getApp"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camApp.mc" id="29" lineNum="27" parent="globals" pc="268436339" symbol="getApp"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="31" lineNum="6" parent="globals/Forerunner_camCameraView" pc="268436356" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="31" lineNum="7" parent="globals/Forerunner_camCameraView" pc="268436360" symbol="initialize"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="32" lineNum="11" parent="globals/Forerunner_camCameraView" pc="268436379" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="32" lineNum="12" parent="globals/Forerunner_camCameraView" pc="268436383" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="33" lineNum="18" parent="globals/Forerunner_camCameraView" pc="268436421" symbol="onShow"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="34" lineNum="22" parent="globals/Forerunner_camCameraView" pc="268436426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="34" lineNum="24" parent="globals/Forerunner_camCameraView" pc="268436430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="35" lineNum="30" parent="globals/Forerunner_camCameraView" pc="268436451" symbol="onHide"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="36" lineNum="4" parent="globals/Forerunner_camCameraView" pc="268437880" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlo\\Documents\\GitHub\\Forerunner_Cam\\Forerunner_cam\\source\\Forerunner_camCameraView.mc" id="36" lineNum="4" parent="globals/Forerunner_camCameraView" pc="268437880" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="38" lineNum="2" parent="globals/Rez/Drawables" pc="268437942" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="39" lineNum="10" parent="globals/Rez/Fonts" pc="268437963" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="40" lineNum="12" parent="globals/Rez/JsonData" pc="268437965" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="41" lineNum="21" parent="globals/Rez/Layouts" pc="268436456" symbol="CameraLayout"/>
+<entry filename="Rez" id="41" lineNum="23" parent="globals/Rez/Layouts" pc="268436468" symbol="CameraLayout"/>
+<entry filename="Rez" id="41" lineNum="24" parent="globals/Rez/Layouts" pc="268436601" symbol="CameraLayout"/>
+<entry filename="Rez" id="41" lineNum="25" parent="globals/Rez/Layouts" pc="268436720" symbol="CameraLayout"/>
+<entry filename="Rez" id="41" lineNum="26" parent="globals/Rez/Layouts" pc="268436772" symbol="CameraLayout"/>
+<entry filename="Rez" id="41" lineNum="27" parent="globals/Rez/Layouts" pc="268436891" symbol="CameraLayout"/>
+<entry filename="Rez" id="41" lineNum="29" parent="globals/Rez/Layouts" pc="268436931" symbol="CameraLayout"/>
+<entry filename="Rez" id="42" lineNum="38" parent="globals/Rez/Layouts" pc="268436969" symbol="VideoLayout"/>
+<entry filename="Rez" id="42" lineNum="40" parent="globals/Rez/Layouts" pc="268436981" symbol="VideoLayout"/>
+<entry filename="Rez" id="42" lineNum="41" parent="globals/Rez/Layouts" pc="268437114" symbol="VideoLayout"/>
+<entry filename="Rez" id="42" lineNum="42" parent="globals/Rez/Layouts" pc="268437233" symbol="VideoLayout"/>
+<entry filename="Rez" id="42" lineNum="43" parent="globals/Rez/Layouts" pc="268437285" symbol="VideoLayout"/>
+<entry filename="Rez" id="42" lineNum="44" parent="globals/Rez/Layouts" pc="268437404" symbol="VideoLayout"/>
+<entry filename="Rez" id="42" lineNum="46" parent="globals/Rez/Layouts" pc="268437444" symbol="VideoLayout"/>
+<entry filename="Rez" id="43" lineNum="14" parent="globals/Rez/Layouts" pc="268437964" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="44" lineNum="60" parent="globals/Rez/Menus/MainMenu" pc="268437482" symbol="initialize"/>
+<entry filename="Rez" id="44" lineNum="61" parent="globals/Rez/Menus/MainMenu" pc="268437486" symbol="initialize"/>
+<entry filename="Rez" id="44" lineNum="62" parent="globals/Rez/Menus/MainMenu" pc="268437504" symbol="initialize"/>
+<entry filename="Rez" id="44" lineNum="63" parent="globals/Rez/Menus/MainMenu" pc="268437560" symbol="initialize"/>
+<entry filename="Rez" id="44" lineNum="64" parent="globals/Rez/Menus/MainMenu" pc="268437616" symbol="initialize"/>
+<entry filename="Rez" id="44" lineNum="65" parent="globals/Rez/Menus/MainMenu" pc="268437672" symbol="initialize"/>
+<entry filename="Rez" id="44" lineNum="66" parent="globals/Rez/Menus/MainMenu" pc="268437728" symbol="initialize"/>
+<entry filename="Rez" id="44" lineNum="67" parent="globals/Rez/Menus/MainMenu" pc="268437784" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="58" parent="globals/Rez/Menus/MainMenu" pc="268437944" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="45" lineNum="58" parent="globals/Rez/Menus/MainMenu" pc="268437944" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="46" lineNum="51" parent="globals/Rez/Menus" pc="268437943" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="47" lineNum="73" parent="globals/Rez/Strings" pc="268437966" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="48" lineNum="1" parent="globals/Rez" pc="268437918" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="48" lineNum="1" parent="globals/Rez" pc="268437918" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8389346" symbol="text"/>
+<entry id="11" object="true" symbol="Forerunner_camVideoDelegate"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="12" object="true" symbol="Forerunner_camVideoView"/>
+<entry id="14" object="true" symbol="Forerunner_camCameraView"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="19" symbol="id_video"/>
+<entry field="true" id="32" symbol="AppName"/>
+<entry id="9" object="true" symbol="Forerunner_camMenuDelegate"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="17" symbol="id_photo"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="31" symbol="prompt"/>
+<entry id="10" object="true" symbol="Forerunner_camCameraDelegate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="24" method="true" symbol="VideoLayout"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="38" symbol="item_6"/>
+<entry id="37" symbol="item_5"/>
+<entry id="36" symbol="item_4"/>
+<entry id="35" symbol="item_3"/>
+<entry id="34" symbol="item_2"/>
+<entry id="33" symbol="item_1"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="16" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="22" object="true" symbol="MainMenu"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="20" symbol="id_arrow2"/>
+<entry field="true" id="18" symbol="id_arrow1"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="13" object="true" symbol="Forerunner_camApp"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="21" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="8389347" symbol="color"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="23" method="true" symbol="CameraLayout"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="26" symbol="menu_label_6"/>
+<entry field="true" id="25" symbol="menu_label_5"/>
+<entry field="true" id="28" symbol="menu_label_4"/>
+<entry field="true" id="27" symbol="menu_label_3"/>
+<entry field="true" id="30" symbol="menu_label_2"/>
+<entry field="true" id="29" symbol="menu_label_1"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435679" name="item" stackId="1" startPc="268435479"/>
+<entry arg="true" endPc="268436186" name="dc" stackId="1" startPc="268436145"/>
+<entry arg="true" endPc="268436216" name="dc" stackId="1" startPc="268436192"/>
+<entry arg="true" endPc="268436249" name="state" stackId="1" startPc="268436245"/>
+<entry arg="true" endPc="268436254" name="state" stackId="1" startPc="268436250"/>
+<entry arg="true" endPc="268436420" name="dc" stackId="1" startPc="268436379"/>
+<entry arg="true" endPc="268436450" name="dc" stackId="1" startPc="268436426"/>
+<entry endPc="268436967" name="rez_cmp_local_text_1402714333" stackId="2" startPc="268436468"/>
+<entry endPc="268436967" name="rez_cmp_local_bitmap_id_arrow1" stackId="4" startPc="268436468"/>
+<entry endPc="268436967" name="rez_cmp_local_bitmap_id_photo" stackId="3" startPc="268436468"/>
+<entry arg="true" endPc="268436968" name="dc" stackId="1" startPc="268436456"/>
+<entry endPc="268437480" name="rez_cmp_local_bitmap_id_video" stackId="3" startPc="268436981"/>
+<entry endPc="268437480" name="rez_cmp_local_bitmap_id_arrow2" stackId="4" startPc="268436981"/>
+<entry endPc="268437480" name="rez_cmp_local_text_1235108600" stackId="2" startPc="268436981"/>
+<entry arg="true" endPc="268437481" name="dc" stackId="1" startPc="268436969"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_photo"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_arrow1"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_video"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_arrow2"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_5"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_6"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_3"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_4"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Forerunner_camVideoDelegate" offset="190" parentId="globals" symbolId="Forerunner_camVideoDelegate" type="class"/>
+<dataEntry label="globals/Forerunner_camCameraDelegate" offset="261" parentId="globals" symbolId="Forerunner_camCameraDelegate" type="class"/>
+<dataEntry label="globals/Forerunner_camCameraView" offset="332" parentId="globals" symbolId="Forerunner_camCameraView" type="class"/>
+<dataEntry label="globals/Forerunner_camMenuDelegate" offset="411" parentId="globals" symbolId="Forerunner_camMenuDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="466" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="545" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="616" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Menus/MainMenu" offset="655" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry label="globals/Rez/Fonts" offset="702" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="733" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="780" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="811" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Forerunner_camApp" offset="906" parentId="globals" symbolId="Forerunner_camApp" type="class"/>
+<dataEntry label="globals/Forerunner_camVideoView" offset="977" parentId="globals" symbolId="Forerunner_camVideoView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435478" name="initialize" parent="Forerunner_camMenuDelegate" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435679" name="onMenuItem" parent="Forerunner_camMenuDelegate" startPc="268435479">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437917" name="&lt;init&gt;" parent="Forerunner_camMenuDelegate" startPc="268437899">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435702" name="initialize" parent="Forerunner_camCameraDelegate" startPc="268435680">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435794" name="onMenu" parent="Forerunner_camCameraDelegate" startPc="268435703">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435822" name="onSelect" parent="Forerunner_camCameraDelegate" startPc="268435795">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435922" name="onNextPage" parent="Forerunner_camCameraDelegate" startPc="268435823">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437879" name="&lt;init&gt;" parent="Forerunner_camCameraDelegate" startPc="268437861">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435945" name="initialize" parent="Forerunner_camVideoDelegate" startPc="268435923">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436037" name="onMenu" parent="Forerunner_camVideoDelegate" startPc="268435946">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436065" name="onSelect" parent="Forerunner_camVideoDelegate" startPc="268436038">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436121" name="onPreviousPage" parent="Forerunner_camVideoDelegate" startPc="268436066">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437860" name="&lt;init&gt;" parent="Forerunner_camVideoDelegate" startPc="268437842">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436144" name="initialize" parent="Forerunner_camVideoView" startPc="268436122">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436186" name="onLayout" parent="Forerunner_camVideoView" startPc="268436145">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436191" name="onShow" parent="Forerunner_camVideoView" startPc="268436187">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436216" name="onUpdate" parent="Forerunner_camVideoView" startPc="268436192">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436221" name="onHide" parent="Forerunner_camVideoView" startPc="268436217">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268438004" name="&lt;init&gt;" parent="Forerunner_camVideoView" startPc="268437986">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436244" name="initialize" parent="Forerunner_camApp" startPc="268436222">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436249" name="onStart" parent="Forerunner_camApp" startPc="268436245">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436254" name="onStop" parent="Forerunner_camApp" startPc="268436250">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436326" name="getInitialView" parent="Forerunner_camApp" startPc="268436255">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437985" name="&lt;init&gt;" parent="Forerunner_camApp" startPc="268437967">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436355" name="getApp" startPc="268436327">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436378" name="initialize" parent="Forerunner_camCameraView" startPc="268436356">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436420" name="onLayout" parent="Forerunner_camCameraView" startPc="268436379">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436425" name="onShow" parent="Forerunner_camCameraView" startPc="268436421">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436450" name="onUpdate" parent="Forerunner_camCameraView" startPc="268436426">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436455" name="onHide" parent="Forerunner_camCameraView" startPc="268436451">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437898" name="&lt;init&gt;" parent="Forerunner_camCameraView" startPc="268437880">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437942" name="&lt;init&gt;" parent="Drawables" startPc="268437942">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437963" name="&lt;init&gt;" parent="Fonts" startPc="268437963">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437965" name="&lt;init&gt;" parent="JsonData" startPc="268437965">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436968" name="CameraLayout" parent="Layouts" startPc="268436456">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437481" name="VideoLayout" parent="Layouts" startPc="268436969">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437964" name="&lt;init&gt;" parent="Layouts" startPc="268437964">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437840" name="initialize" parent="MainMenu" startPc="268437482">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437962" name="&lt;init&gt;" parent="MainMenu" startPc="268437944">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437943" name="&lt;init&gt;" parent="Menus" startPc="268437943">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437966" name="&lt;init&gt;" parent="Strings" startPc="268437966">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437941" name="&lt;init&gt;" parent="Rez" startPc="268437918">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

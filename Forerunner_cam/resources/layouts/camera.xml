@@ -1,0 +1,5 @@
+<layout id="CameraLayout">
+    <label x="center" y="40" text="Take photo" color="Graphics.COLOR_BLUE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_SYSTEM_TINY"/>
+    <bitmap id="id_photo" x="center" y="center" filename="../drawables/stop_f.png" dithering="none"/>
+    <bitmap id="id_arrow1" x="center" y="bottom" filename="../drawables/arrow_downw.png" dithering="none"/>
+</layout>

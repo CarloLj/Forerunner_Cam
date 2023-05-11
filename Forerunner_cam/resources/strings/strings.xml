@@ -1,0 +1,12 @@
+<strings>
+    <string id="AppName">Forerunner_cam</string>
+
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Carlo</string>
+    <string id="menu_label_2">es</string>
+    <string id="menu_label_3">el</string>
+    <string id="menu_label_4">mejor</string>
+    <string id="menu_label_5">:)</string>
+    <string id="menu_label_6">:p</string>
+</strings>
